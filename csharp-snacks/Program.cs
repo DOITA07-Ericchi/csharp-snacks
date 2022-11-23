@@ -126,7 +126,7 @@ static void snack5() {
 }
 
 // Scegliere cosa eseguire
-Console.Write("Scegli lo snack da eseguire (1-5) o termina il programma scrivendo qualcos altro: ");
+Console.Write("Scegli lo snack da eseguire (1-5) o termina il programma scrivendo qualcos'altro: ");
 string sceltaSnack = Console.ReadLine();
 switch (sceltaSnack) {
     case "1":
